@@ -6,8 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Psr\\SimpleCache\\' => array($vendorDir . '/psr/simple-cache/src'),
-    'PhpOffice\\PhpSpreadsheet\\' => array($vendorDir . '/phpoffice/phpspreadsheet/src/PhpSpreadsheet'),
-    'Matrix\\' => array($vendorDir . '/markbaker/matrix/classes/src'),
-    'Complex\\' => array($vendorDir . '/markbaker/complex/classes/src'),
+    'OpenSpout\\' => array($vendorDir . '/openspout/openspout/src'),
 );
