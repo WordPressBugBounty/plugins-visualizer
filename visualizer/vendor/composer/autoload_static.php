@@ -11,23 +11,23 @@ class ComposerStaticInit6e978a0b38c64a0f62a8ddadae59cfa2
     );
 
     public static $prefixLengthsPsr4 = array (
-        'O' => 
+        'O' =>
         array (
             'OpenSpout\\' => 10,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'OpenSpout\\' => 
+        'OpenSpout\\' =>
         array (
             0 => __DIR__ . '/..' . '/openspout/openspout/src',
         ),
     );
 
     public static $prefixesPsr0 = array (
-        'F' => 
+        'F' =>
         array (
-            'ForceUTF8\\' => 
+            'ForceUTF8\\' =>
             array (
                 0 => __DIR__ . '/..' . '/neitanod/forceutf8/src',
             ),

@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'codeinwp/visualizer',
-        'pretty_version' => 'v3.11.14',
-        'version' => '3.11.14.0',
-        'reference' => '6aaa7cf8a898c3c232d67d9fbae851a14e5a5b09',
+        'pretty_version' => 'v3.11.15',
+        'version' => '3.11.15.0',
+        'reference' => '3813cb93af967c3d20d04ce7c4bc0c6f53fd6c2a',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'codeinwp/visualizer' => array(
-            'pretty_version' => 'v3.11.14',
-            'version' => '3.11.14.0',
-            'reference' => '6aaa7cf8a898c3c232d67d9fbae851a14e5a5b09',
+            'pretty_version' => 'v3.11.15',
+            'version' => '3.11.15.0',
+            'reference' => '3813cb93af967c3d20d04ce7c4bc0c6f53fd6c2a',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
