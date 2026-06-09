@@ -1,14 +1,14 @@
-=== Visualizer: Tables and Charts Manager for WordPress ===
+=== Visualizer – Tables & Charts Manager with Built-in AI Generator ===
 Contributors: codeinwp,themeisle,marius2012,marius_codeinwp,hardeepasrani,rozroz,Madalin_ThemeIsle
-Tags: tables, charts, pie, visualization, graphs
+Tags: charts, tables, datatable, data-visualization, ai-charts
 Requires at least: 5.2
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 7.4
 Stable tag: trunk
 License: GPL v2.0 or later
 License URI: http://www.opensource.org/licenses/gpl-license.php
 
-Create responsive charts and tables manually or let the built-in AI build them from a simple text prompt. Supports multiple chart types and flexible data sources.
+Create responsive charts and tables manually or let the built-in AI build them from a text prompt. Supports multiple chart types and flexible data.
 
 ## Description ##
 
@@ -244,6 +244,22 @@ Please follow the reporting protocols outlined on our [Security Page](https://th
 8. Block editor - Chart Library
 
 == Changelog ==
+
+##### [Version 4.0.3](https://github.com/Codeinwp/visualizer/compare/v4.0.2...v4.0.3) (2026-06-09)
+
+- Improved layout compatibility with WP 7.0
+
+
+
+
+##### [Version 4.0.2](https://github.com/Codeinwp/visualizer/compare/v4.0.1...v4.0.2) (2026-05-19)
+
+- Fixed broken candlestick chart
+- Updated dependencies
+- Enhanced security
+
+
+
 
 ##### [Version 4.0.1](https://github.com/Codeinwp/visualizer/compare/v4.0.0...v4.0.1) (2026-03-31)
 
