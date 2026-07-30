@@ -1,3 +1,16 @@
+##### [Version 4.0.7](https://github.com/Codeinwp/visualizer/compare/v4.0.6...v4.0.7) (2026-07-30)
+
+- Fixed charts using a database source saving the results of the previous query, so a saved chart no longer differs from the data shown in the editor.
+- Updated dependencies
+- Enhanced security — fixed unauthorized chart_data REST access.
+
+##### [Version 4.0.6](https://github.com/Codeinwp/visualizer/compare/v4.0.5...v4.0.6) (2026-07-22)
+
+- Fixed scheduled imports from remote CSV files so charts continue to refresh automatically in the background.
+- Fixed an issue where charts using lazy rendering could remain blank when their scripts finished loading in the wrong order.
+- Improved the overall security of the product. Thanks to **creeper_kirby** for responsibly reporting the issue.
+- Updated dependencies.
+
 ##### [Version 4.0.5](https://github.com/Codeinwp/visualizer/compare/v4.0.4...v4.0.5) (2026-07-10)
 
 - Enhanced security
