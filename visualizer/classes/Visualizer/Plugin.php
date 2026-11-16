@@ -28,7 +28,7 @@
 class Visualizer_Plugin {
 
 	const NAME = 'visualizer';
-	const VERSION = '4.0.10';
+	const VERSION = '4.0.11';
 
 	// custom post types
 	const CPT_VISUALIZER = 'visualizer';
@@ -106,6 +106,7 @@ class Visualizer_Plugin {
 	const CF_CHART_CACHE = 'visualizer-chart-cache';
 	const CF_JSON_WOOCOMMERCE_SOURCE = 'visualizer-woocommerce-source';
 	const CF_IS_WOOCOMMERCE_SOURCE = 'visualizer-is-woocommerce-source';
+	const CF_WOOCOMMERCE_REPORT_USER = 'visualizer-woocommerce-report-user';
 
 	/**
 	 * Name of the option for WordPress DB.
