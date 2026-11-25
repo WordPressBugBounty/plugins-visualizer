@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'codeinwp/visualizer',
-        'pretty_version' => 'v4.0.11',
-        'version' => '4.0.11.0',
-        'reference' => '694aa73b4c1a74ba7b84c79e916635a4cf8cd57c',
+        'pretty_version' => 'v4.0.12',
+        'version' => '4.0.12.0',
+        'reference' => '5a923c7349ea61b7df3629485e3f9977da7969fa',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,18 +11,18 @@
     ),
     'versions' => array(
         'codeinwp/themeisle-sdk' => array(
-            'pretty_version' => '3.3.72',
-            'version' => '3.3.72.0',
-            'reference' => '66036fa0ef8168f7e5a3f7bf06dc88733e1d46db',
+            'pretty_version' => '3.3.73',
+            'version' => '3.3.73.0',
+            'reference' => 'f242bafc4d216bcb1957d800bf9bde679514d137',
             'type' => 'library',
             'install_path' => __DIR__ . '/../codeinwp/themeisle-sdk',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'codeinwp/visualizer' => array(
-            'pretty_version' => 'v4.0.11',
-            'version' => '4.0.11.0',
-            'reference' => '694aa73b4c1a74ba7b84c79e916635a4cf8cd57c',
+            'pretty_version' => 'v4.0.12',
+            'version' => '4.0.12.0',
+            'reference' => '5a923c7349ea61b7df3629485e3f9977da7969fa',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
